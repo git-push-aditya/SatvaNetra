@@ -1,0 +1,26 @@
+# Virtual environment  
+venv/  
+env/  
+*.venv  
+
+# Python cache  
+__pycache__/  
+*.py[cod]  
+
+# Logs  
+*.log  
+
+# Config & secret files  
+.env  
+*.env  
+config.json  
+
+# System files  
+.DS_Store  
+Thumbs.db  
+
+# Uploaded files (optional, if you don't want to commit uploads)  
+uploads/  
+
+# Supabase local files (if used)  
+supabase/.temp  
